@@ -13,6 +13,7 @@
 
 # Package Files #
 *.jar
+!gradle-wrapper.jar # don't ignore gradle-wrapeer!
 *.war
 *.nar
 *.ear
